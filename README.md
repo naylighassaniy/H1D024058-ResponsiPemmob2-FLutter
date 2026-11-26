@@ -2,10 +2,10 @@
 
 Aplikasi cuaca berbasis Flutter yang menampilkan data cuaca real-time dari API Open-Meteo dengan tampilan modern dan latar gradien dinamis sesuai kondisi cuaca serta siang/malam.
 
-> **Nama:** Nayli Ghassaniy Latifatun Nida 
-> **NIM:** H1D024058  
-> **Shift Awal:** Shift E
-> **Shift Akhir:** Shift D  
+**Nama:** Nayli Ghassaniy Latifatun Nida 
+**NIM:** H1D024058  
+**Shift Awal:** Shift E
+**Shift Akhir:** Shift D  
 
 ## Fitur Utama
 
